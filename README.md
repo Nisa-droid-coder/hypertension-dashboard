@@ -2,7 +2,7 @@
 
 An interactive machine learning dashboard for exploring hypertension risk factors, comparing predictive models, interpreting model behavior, and estimating hypertension risk from lifestyle and demographic information.
 
-Built with Python and Streamlit.
+Built with Python and Streamlit. (https://hypertension-dashboard.streamlit.app/)
 
 ---
 
